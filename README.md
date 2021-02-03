@@ -1,3 +1,5 @@
+Blog post about this project is available [here](https://datahook.co.uk/2021/01/quantium-virtual-internship/).
+
 ## Quantium Virtual Internship
 
 Key analytical skills learned in this program: 
